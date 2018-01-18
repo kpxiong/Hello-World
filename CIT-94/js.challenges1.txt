@@ -1,0 +1,5 @@
+var fruit = 'Apple'
+var weight = 5;
+var question = false;
+
+console.log(The ${fruit} is ${weight} pound and is blue? ${question})
